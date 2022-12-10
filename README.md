@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Javier! 👋
 
 
-**ReplacedSpace17/ReplacedSpace17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently vice president of Bisontech 
+- 💬 Ask me about anything, I'm happy to help 
+- ✨ Pronouns: she/her
+- ⚡ Fun fact: I'm a triplet
 
 Here are some ideas to get you started:
 
