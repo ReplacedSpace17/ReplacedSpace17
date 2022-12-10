@@ -29,14 +29,16 @@ const Javier = {
 
 ### You must never forget that
 We must understand that we all make mistakes and not forgiving is the cause of so many graves without flowers.
-<br>
+
 There will never be a revolution without evolution of consciousness. The difference is up to you.
-<br>
+
 If you don't sweep up the shit today, maybe tomorrow you'll step on it.
-<br>
+
 Respect is not deserved by the bad, if not the one who achieves happiness, that is more of a thug.
-<br>
+
 Admirable is the one who dies for his ideals. Respectable is that man who respected the likes of him.
+
+-Canserbero
 ### <img src="https://media.giphy.com/media/gJ2eADoYgXYVR9xRCY/giphy.gif" width="200"> 
 
 
