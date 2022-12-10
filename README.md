@@ -8,7 +8,8 @@
 - 🎮 Let's play for a while: Gt: ReplacedSpace17
 - ⚡ Fun fact: I love Halo 2 ❤ 
 <img src="https://media.giphy.com/media/XfVclHLZm4hLWqNgBm/giphy.gif" width="80"> 
-- 🎵 Raffle Rich Vagos  
+
+ 🎵 Raffle Rich Vagos  
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0fHCFilaF6Ik8t9lRX_xenMsVegsL-EUiyQXCdRqMGjfR_bJM5OJ0-z8XKtKD6wSXf0&usqp=CAU" width="200">
 
 
