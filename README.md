@@ -11,7 +11,7 @@
 - 🎵 Raffle Rich Vagos  
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0fHCFilaF6Ik8t9lRX_xenMsVegsL-EUiyQXCdRqMGjfR_bJM5OJ0-z8XKtKD6wSXf0&usqp=CAU" width="200">
 
-<br>
+
 [![GitHub ReplacedSpace17](https://img.shields.io/github/followers/ReplacedSpace17?label=follow&style=social)](https://github.com/ReplacedSpace17)
 
 ### <img src="https://media.giphy.com/media/12J5TZCmhpM5mE/giphy.gif" width="80"> A little more about me...  
