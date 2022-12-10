@@ -1,4 +1,4 @@
-<h2>  Hi there, I'm Javier! <img src="https://media.giphy.com/media/PAuDiTd7DLwYagLGH3/giphy.gif" width="80"></h2>
+<h2>  Hi there, I'm Javier! <img src="https://media.giphy.com/media/PAuDiTd7DLwYagLGH3/giphy.gif" width="100"></h2>
 
 
 - 🔭 I’m currently working on ONYX 3D
@@ -7,7 +7,7 @@
 - 😄 Pronouns: What a stupid thing!
 - 🎮 Let's play for a while: Gt: ReplacedSpace17
 - ⚡ Fun fact: I love Halo 2 ❤ 
-<img src="https://media.giphy.com/media/XfVclHLZm4hLWqNgBm/giphy.gif" width="80"> 
+<img src="https://media.giphy.com/media/XfVclHLZm4hLWqNgBm/giphy.gif" width="50"> 
 - 🎵 Raffle Rich Vagos  
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0fHCFilaF6Ik8t9lRX_xenMsVegsL-EUiyQXCdRqMGjfR_bJM5OJ0-z8XKtKD6wSXf0&usqp=CAU" width="200">
 
@@ -23,7 +23,7 @@ const Javier = {
 ```
 [![GitHub ReplacedSpace17](https://img.shields.io/github/followers/ReplacedSpace17?label=follow&style=social)](https://github.com/ReplacedSpace17)
 
-### <img src="https://media.giphy.com/media/gJ2eADoYgXYVR9xRCY/giphy.gif" width="80"> 
-### <img src="https://media.giphy.com/media/M1K6rrHS4ZIKtWG8t8/giphy.gif" width="80"> 
+### <img src="https://media.giphy.com/media/gJ2eADoYgXYVR9xRCY/giphy.gif" width="200"> 
+### <img src="https://media.giphy.com/media/M1K6rrHS4ZIKtWG8t8/giphy.gif" width="100"> 
 
 
