@@ -1,15 +1,15 @@
-<h2>  Hi there, I'm Javier! <img src="https://media.giphy.com/media/PAuDiTd7DLwYagLGH3/giphy.gif" width="100"></h2>
+<h2>  Hola, yo soy Javier! <img src="https://media.giphy.com/media/PAuDiTd7DLwYagLGH3/giphy.gif" width="100"></h2>
 
 
-- 🔭 I’m currently working on ONYX 3D
-- 🌱 I’m biology hobbyist
-- 💬 Ask me about anything, I'm happy to help 
-- 😄 Pronouns: What a stupid thing!
-- 🎮 Let's play for a while: Gt: ReplacedSpace17
-- ⚡ Fun fact: I love Halo 2 ❤ 
+- 🔭 Actualmente trabajo en Onyx 3D
+- 🌱 Soy aficionado a la Biología
+- 💬 Pregúntame lo que gustes, estoy encantado de ayudarte!
+- 😄 Pronombres: ¿Que mierda es esto?
+- 🎮 Juguemos un rato: Gt: ReplacedSpace17
+- ⚡Dato curioso: Me encanta Halo ❤ 
 <img src="https://media.giphy.com/media/XfVclHLZm4hLWqNgBm/giphy.gif" width="80"> 
 
- 🎵 Raffle Rich Vagos  
+ 🎵 Rich Vagos Rifa!!  
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0fHCFilaF6Ik8t9lRX_xenMsVegsL-EUiyQXCdRqMGjfR_bJM5OJ0-z8XKtKD6wSXf0&usqp=CAU" width="200">
 
 
@@ -27,18 +27,18 @@ const Javier = {
 ```
 [![GitHub ReplacedSpace17](https://img.shields.io/github/followers/ReplacedSpace17?label=follow&style=social)](https://github.com/ReplacedSpace17)
 
-### You must never forget that
-We must understand that we all make mistakes and not forgiving is the cause of so many graves without flowers.
+### Nunca olvides que:
+-Debemos entender que todos cometemos errores y no perdonar es la causa de tantas tumbas sin flores.
 
-There will never be a revolution without evolution of consciousness. The difference is up to you.
+-Nunca habrá revolución sin evolución de conciencia. 
 
-If you don't sweep up the shit today, maybe tomorrow you'll step on it.
+-Si no barres la mierda hoy, quizás mañana la pises.
 
-Respect is not deserved by the bad, if not the one who achieves happiness, that is more of a thug.
+-Respeto no merece el malo, si no el que consigue la felicidad, ese si es el más malandro.
 
-Admirable is the one who dies for his ideals. Respectable is that man who respected the likes of him.
+-Admirable es el que muere por sus ideales. Respetable es aquel hombre que respetó a gente como él.
 
--Canserbero
+Can
 ### <img src="https://media.giphy.com/media/gJ2eADoYgXYVR9xRCY/giphy.gif" width="200"> 
 
 
