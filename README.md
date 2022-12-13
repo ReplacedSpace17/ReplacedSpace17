@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente trabajo en Onyx 3D
 - 🌱 Soy aficionado a la Biología
-- 💬 Pregúntame lo que gustes, estoy encantado de ayudarte!
+- 💬 Pregúntame lo que gustes, estoy encantado en ayudarte!
 - 😄 Pronombres: ¿Que mierda es esto?
 - 🎮 Juguemos un rato: Gt: ReplacedSpace17
 - ⚡Dato curioso: Me encanta Halo ❤ 
