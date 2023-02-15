@@ -27,7 +27,7 @@ const Javier = {
 ```
 [![GitHub ReplacedSpace17](https://img.shields.io/github/followers/ReplacedSpace17?label=follow&style=social)](https://github.com/ReplacedSpace17)
 
-### Nunca olvides que:
+
 -Debemos entender que todos cometemos errores y no perdonar es la causa de tantas tumbas sin flores.
 
 -Nunca habrá revolución sin evolución de conciencia. 
