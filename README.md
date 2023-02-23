@@ -7,6 +7,7 @@
 - 😄 Pronombres: ¿Que mierda es esto?
 - 🎮 Juguemos un rato: Gt: ReplacedSpace17
 - ⚡Dato curioso: Me encanta Halo ❤ 
+- 🔬 Club: KingSnake-Lab 🖤
 <img src="https://media.giphy.com/media/XfVclHLZm4hLWqNgBm/giphy.gif" width="80"> 
 
  🎵 Rich Vagos Rifa!!  
