@@ -1,7 +1,7 @@
 <h2>  Hola, yo soy Javier! <img src="https://media.giphy.com/media/PAuDiTd7DLwYagLGH3/giphy.gif" width="100"></h2>
 
 
-- 🔭 Actualmente trabajo en Onyx 3D
+- 🔭 Actualmente trabajo en @Onyx 3D
 - 🌱 Soy aficionado a la Biología
 - 💬 Pregúntame lo que gustes, estoy encantado en ayudarte!
 - 😄 Pronombres: ¿Que mierda es esto?
