@@ -29,15 +29,36 @@ const Javier = {
 [![GitHub ReplacedSpace17](https://img.shields.io/github/followers/ReplacedSpace17?label=follow&style=social)](https://github.com/ReplacedSpace17)
 
 
--Debemos entender que todos cometemos errores y no perdonar es la causa de tantas tumbas sin flores.
+```javascript
+new Success(failure)
 
--Nunca habrá revolución sin evolución de conciencia. 
+import time from life
+time.heal()
 
--Si no barres la mierda hoy, quizás mañana la pises.
+while(coding){
+  drinkCoffee = true;
+  focus=100;
+  headPhones=true;
+}
 
--Respeto no merece el malo, si no el que consigue la felicidad, ese si es el más malandro.
+while(alive){
+  eat();
+  sleep();
+  code();
+  if(isWeekend()){
+    takeBreak();
+  }
+}
 
--Admirable es el que muere por sus ideales. Respetable es aquel hombre que respetó a gente como él.
+while(noSuccess){
+  keepImproving();
+  tryAgain();
+}
+
+SELECT * FROM Memories m INNER JOIN Positivity p ON m.positivity = p.id
+
+```
+
 
 Can
 ### <img src="https://media.giphy.com/media/gJ2eADoYgXYVR9xRCY/giphy.gif" width="200"> 
