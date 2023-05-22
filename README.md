@@ -1,4 +1,7 @@
 
+<h2>  Hola, yo soy Javier! <img src="https://media.giphy.com/media/PAuDiTd7DLwYagLGH3/giphy.gif" width="100"></h2>
+
+
 # 💫 About Me:
  🔭 Actualmente trabajo en @Onyx 3D<br> 🌱 Soy aficionado a la Biología<br> 💬 Pregúntame lo que gustes, estoy encantado en ayudarte!<br> 😄 Pronombres: ¿Que mierda es esto?<br> 🎮 Juguemos un rato: Gt: ReplacedSpace17<br> ⚡Dato curioso: Me encanta Halo ❤ <br> 🔬 Club: KingSnake-Lab 🖤
 
@@ -22,4 +25,49 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ReplacedSpace17&icon=5&color=1)](https://visitcount.itsvg.in)
 
+
+### <img src="https://media.giphy.com/media/12J5TZCmhpM5mE/giphy.gif" width="80"> A little more about me...  
+
+```javascript
+const Javier = {
+  code: ['JavaScript','HTML', 'CSS', 'Python', 'Java'], 
+  projects: ['Green Soil 🌱', 'TerraTech 🦎', 'RecSpider 🕷', 'Smart-Let 👊', 'Onyx 3D ⚫'],
+  microcontrollers: ['Arduino', 'Esp32', 'Esp8266'],
+  games: ['Fornite', 'Halo', 'Call of Duty', 'Need for Speed', 'Forza Horizon', 'Overwatch', 'Minecraft'],
+  music: ['Gera MX', 'Canserbero', 'Toser one', 'Santa Fe Klan', 'Danger', 'Chojin', 'Samantha Barrón'],
+  pets: ['rabbit', 'turtle']
+}
+```
+[![GitHub ReplacedSpace17](https://img.shields.io/github/followers/ReplacedSpace17?label=follow&style=social)](https://github.com/ReplacedSpace17)
+
+
+```javascript
+new Success(failure)
+
+import time from life
+time.heal()
+
+while(coding){
+  drinkCoffee = true;
+  focus=100;
+  headPhones=true;
+}
+
+while(alive){
+  eat();
+  sleep();
+  code();
+  if(isWeekend()){
+    takeBreak();
+  }
+}
+
+while(noSuccess){
+  keepImproving();
+  tryAgain();
+}
+
+SELECT * FROM Memories m INNER JOIN Positivity p ON m.positivity = p.id
+
+```
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
