@@ -31,7 +31,8 @@
 ```javascript
 const Javier = {
   code: ['JavaScript','HTML', 'CSS', 'Python', 'Java'], 
-  projects: ['Green Soil 🌱', 'TerraTech 🦎', 'RecSpider 🕷', 'Smart-Let 👊', 'Onyx 3D ⚫'],
+  projects: ['Green Soil 🌱', 'TerraTech 🦎', 'RecSpider 🕷', 'Smart-Let 👊', 'Onyx 3D ⚫', 'Life-Up', 'Rooms'],
+  events: ['InnovaTecNM'],
   microcontrollers: ['Arduino', 'Esp32', 'Esp8266'],
   games: ['Fornite', 'Halo', 'Call of Duty', 'Need for Speed', 'Forza Horizon', 'Overwatch', 'Minecraft'],
   music: ['Gera MX', 'Canserbero', 'Toser one', 'Santa Fe Klan', 'Danger', 'Chojin', 'Samantha Barrón'],
