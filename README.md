@@ -7,6 +7,14 @@
 
 ###
 
+<h1 align="center">Team Lab</h1>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
 ```javascript
 const Javier = {
   code: ['JavaScript','HTML', 'CSS', 'Python', 'Java', 'Elixir', 'TypeScript'], 
@@ -19,7 +27,7 @@ const Javier = {
 }
 ```
 
-<h3 align="center">💻 Tech Stack: </h3>
+<h1 align="center">💻 Tech Stack: </h1>
 
 ###
 
@@ -59,17 +67,11 @@ const Javier = {
 
 ###
 
-<h3 align="center">Team Lab</h3>
+
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<h3 align="center">Social Media</h3>
+<h1 align="center"> 🌐 Socials</h1>
 
 ###
 
@@ -89,7 +91,7 @@ const Javier = {
 
 ###
 
-<h3 align="center">Estadísticas</h3>
+<h1 align="center">📊 GitHub Stats</h1>
 
 ###
 
@@ -111,19 +113,4 @@ const Javier = {
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ReplacedSpace17&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ReplacedSpace17&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReplacedSpace17&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ReplacedSpace17&limit=5&theme=dark&combine_all_yearly_contributions=true)
----
-[![](https://visitcount.itsvg.in/api?id=ReplacedSpace17&icon=1&color=1)](https://visitcount.itsvg.in)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ReplacedSpace17&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
