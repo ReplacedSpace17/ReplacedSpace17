@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
- <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/db8383b0fcbe78c4de5e4243300cf138.gif" width="450" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+<img src="https://i.picasion.com/pic92/db8383b0fcbe78c4de5e4243300cf138.gif" width="750" height="600" border="0" alt="https://picasion.com/" />
 </div>
 
 ```javascript
