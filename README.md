@@ -15,6 +15,9 @@
 <img src="https://i.picasion.com/pic92/db8383b0fcbe78c4de5e4243300cf138.gif" width="750" height="500" border="0" alt="https://picasion.com/" />
 </div>
 
+###
+<h1 align="center">🚀 About me</h1>
+
 ```javascript
 const Javier = {
   code: ['JavaScript','HTML', 'CSS', 'Python', 'Java', 'Elixir', 'TypeScript'], 
@@ -26,6 +29,7 @@ const Javier = {
   pets: ['rabbit', 'turtle']
 }
 ```
+###
 
 <h1 align="center">💻 Tech Stack: </h1>
 
