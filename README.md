@@ -107,7 +107,7 @@ const Javier = {
 
 ###
 
-<img src="https://raw.githubusercontent.com/ReplacedSpace17/ReplacedSpace17/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
 [![GitHub ReplacedSpace17](https://img.shields.io/github/followers/ReplacedSpace17?label=follow&style=social)](https://github.com/ReplacedSpace17)
