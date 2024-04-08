@@ -11,13 +11,15 @@
 
 ```javascript
 const Javier = {
-  code: ['JavaScript','HTML', 'CSS', 'Python', 'Java', 'Elixir', 'TypeScript'], 
+  programming_languages: ['JavaScript', 'Python','TypeScript', 'Java', 'Dart', 'C++', 'C#', 'C', 'Ruby', 'Prolog'],
+  code: ['React.js','Flask', 'Flutter', 'MicroPython', 'Arduino', 'Vue.js'], 
   projects: ['Green Soil 🌱', 'TerraTech 🦎', 'RecSpider 🕷', 'Smart-Let 👊', 'Onyx 3D ⚫', 'Life-Up', 'Rooms'],
-  events: ['InnovaTecNM'],
+  events: ['InnovaTecNM', 'Hack_AI', 'HackDHI', 'Hack_Puebla', 'Hack_TalenTics'], 
   microcontrollers: ['Arduino', 'Esp32', 'Esp8266'],
   games: ['Fornite', 'Halo', 'Call of Duty', 'Need for Speed', 'Forza Horizon', 'Overwatch', 'Minecraft'],
-  interest: ['Marine biology', 'Biostatistics', 'Molecular biology'],
-  pets: ['rabbit', 'turtle']
+  interest: ['Biology', 'Biostatistics', 'Molecular biology'],
+  pets: ['rabbit', 'turtle', 'dog'],
+  clubs: ['Singularity_Club']
 }
 ```
 
