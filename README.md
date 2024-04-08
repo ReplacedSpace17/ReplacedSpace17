@@ -22,13 +22,17 @@ const Javier = {
 ```
 
 ###
-<h1 align="center">Team Dev</h1>
+<h1 align="center">Singularity Club</h1>
+<p align="justify">
+  Exploring the universe of scientific knowledge, Singularity Club is a space dedicated to sharing knowledge, promoting technological projects with social impact and promoting scientific dissemination. Join our community to participate in the discovery and development of innovative solutions for a more equitable and technologically advanced world.
+</p>
 <div align="center">
 <img src="https://i.picasion.com/pic92/db8383b0fcbe78c4de5e4243300cf138.gif" width="750" height="500" border="0" alt="https://picasion.com/" />
 </div>
 
 ###
-# 📊 GitHub Stats:
+<h1 align="center"> 📊 GitHub Stats:</h1>
+
 ![](https://github-readme-stats.vercel.app/api?username=ReplacedSpace17&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ReplacedSpace17&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReplacedSpace17&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
