@@ -7,16 +7,6 @@
 <p align="left">Greetings everyone! I am a passionate graduate student in Computer Science at the National Technological of Mexico, where I channel my enthusiasm towards bioinformatics 🦖, with a particular focus on the intersection of artificial intelligence and biology. 🌱 My interest in earth and life sciences has led me to currently work on characterizing microscopic images for optimizing microalgae cultivation, contributing to the advancement of research in this field. 🚀🔬👾<br><br>This experience not only represents an academic challenge but also an opportunity to establish a meaningful bridge between technology and biology, seeking practical applications in enhancing biological processes through the implementation of artificial intelligence techniques. My commitment to knowledge generation is evident in my active participation in hackathons, science events, and the continuous exploration of new areas.</p>
 
 ###
-
-<h1 align="center">Team Dev</h1>
-
-###
-
-<div align="center">
-<img src="https://i.picasion.com/pic92/db8383b0fcbe78c4de5e4243300cf138.gif" width="750" height="500" border="0" alt="https://picasion.com/" />
-</div>
-
-###
 <h1 align="center">🚀 About me</h1>
 
 ```javascript
@@ -30,6 +20,16 @@ const Javier = {
   pets: ['rabbit', 'turtle']
 }
 ```
+
+<h1 align="center">Team Dev</h1>
+
+###
+
+<div align="center">
+<img src="https://i.picasion.com/pic92/db8383b0fcbe78c4de5e4243300cf138.gif" width="750" height="500" border="0" alt="https://picasion.com/" />
+</div>
+
+
 ###
 
 <h1 align="center">💻 Tech Stack: </h1>
