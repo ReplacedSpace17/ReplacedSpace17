@@ -32,7 +32,11 @@ const Javier = {
 <div align="center">
 <img src="https://i.picasion.com/pic92/db8383b0fcbe78c4de5e4243300cf138.gif" width="750" height="500" border="0" alt="https://picasion.com/" />
 </div>
-[Ingresa aquí](https://github.com/Singularity-MX)
+
+**¡Únete al club!**<br>
+[Singularity Club](https://github.com/Singularity-MX)
+
+
 ###
 <h1 align="center"> 📊 GitHub Stats:</h1>
 
