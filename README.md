@@ -24,7 +24,7 @@ const Javier = {
 ```
 
 ###
-<h1 align="center">🪐 Singularity Club</h1>
+<a href="https://github.com/Singularity-MX"<h1 align="center">🪐 Singularity Club</h1><a/>
 <p align="justify">
   Exploring the universe of scientific knowledge, Singularity Club is a space dedicated to sharing knowledge, promoting technological projects with social impact and promoting scientific dissemination. Join our community to participate in the discovery and development of innovative solutions for a more equitable and technologically advanced world.
 </p>
