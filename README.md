@@ -27,12 +27,12 @@ const Javier = {
 <a href="https://github.com/Singularity-MX"><h1 align="center">🪐 Singularity Club</h1><a/>
 <p align="justify">
   Exploring the universe of scientific knowledge, Singularity Club is a space dedicated to sharing knowledge, promoting technological projects with social impact and promoting scientific dissemination. Join our community to participate in the discovery and development of innovative solutions for a more equitable and technologically advanced world.
-  https://github.com/Singularity-MX
+
 </p>
 <div align="center">
 <img src="https://i.picasion.com/pic92/db8383b0fcbe78c4de5e4243300cf138.gif" width="750" height="500" border="0" alt="https://picasion.com/" />
 </div>
-
+[Ingresa aquí](https://github.com/Singularity-MX)
 ###
 <h1 align="center"> 📊 GitHub Stats:</h1>
 
