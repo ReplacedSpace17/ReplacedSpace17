@@ -56,23 +56,43 @@ const Javier = {
 
 <p align="justify">
 
-<b>Microalgae Culture Monitoring System</b>  
-Modular framework for RGB image processing and real-time neural inference applied to freshwater microalgae growth monitoring.  
-Technologies: Python, OpenCV, TensorFlow, embedded sensors.  
+<b>
+  <a href="https://github.com/ReplacedSpace17/bioharvest" target="_blank">
+    Microalgae Culture Monitoring System
+  </a>
+</b><br>
+Modular framework for RGB image processing and real-time neural inference applied to freshwater microalgae growth monitoring.<br>
+Technologies: Python, OpenCV, TensorFlow, embedded sensors.
+<br><br>
 
-<b>GluControl – Mobile Health Application</b>  
-Cross-platform mobile application for glucose tracking, dietary logging, and correlation analysis between food intake, physical activity, and glucose levels.  
-Technologies: Flutter, data analysis pipelines, mobile UI/UX.  
+<b>
+  <a href="https://github.com/Singularity-MX/Glucontrol_App" target="_blank">
+    GluControl – Mobile Health Application
+  </a>
+</b><br>
+Cross-platform mobile application for glucose tracking, dietary logging, and correlation analysis between food intake, physical activity, and glucose levels.<br>
+Technologies: Flutter, data analysis pipelines, mobile UI/UX.
+<br><br>
 
-<b>Axiom – Decentralized Scientific Experiment Registry</b>  
-Blockchain-based platform combined with peer-to-peer databases for the secure, transparent, and immutable registration of scientific experiments, aimed at improving reproducibility, traceability, and data integrity in research workflows.  
-Technologies: Blockchain, P2P databases, distributed systems, web technologies.  
+<b>
+  <a href="https://github.com/ReplacedSpace17/axiom" target="_blank">
+    Axiom – Decentralized Scientific Experiment Registry
+  </a>
+</b><br>
+Blockchain-based platform combined with peer-to-peer databases for the secure, transparent, and immutable registration of scientific experiments, aimed at improving reproducibility, traceability, and data integrity in research workflows.<br>
+Technologies: Blockchain, P2P databases, distributed systems, web technologies.
+<br><br>
 
-<b>Evaluasaurio – Academic Evaluation Platform</b>  
-Web-based platform for the evaluation of teaching performance and institutional processes in educational environments, providing structured data collection and analytics for decision-making.  
-Technologies: JavaScript, React, Flask, relational databases.  
+<b>
+  <a href="https://github.com/ReplacedSpace17/Evaluasaurio" target="_blank">
+    Evaluasaurio – Academic Evaluation Platform
+  </a>
+</b><br>
+Web-based platform for the evaluation of teaching performance and institutional processes in educational environments, providing structured data collection and analytics for decision-making.<br>
+Technologies: JavaScript, React, Flask, relational databases.
 
 </p>
+
 
 
 <h2 align="center">📄 Publications</h2> <p align="justify"> <b>Gutiérrez-Ramírez, J. J.</b>, Macias-Jamaica, R. E., Zamudio-Rodríguez, V. M., Sotelo, H. A., Velázquez-Vázquez, D. A., de Anda-Suárez, J., & Gutiérrez-Hernández, D. A. (2025). <i>A modular framework for RGB image processing and real-time neural inference: A case study in microalgae culture monitoring.</i> <b>Eng</b>, 6(9), 221. JCR Q2. DOI: https://doi.org/10.3390/eng6090221 </p>
