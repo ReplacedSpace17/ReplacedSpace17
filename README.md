@@ -57,7 +57,7 @@ const Javier = {
 <p align="justify">
 
 <b>
-  <a href="https://github.com/ReplacedSpace17/bioharvest" target="_blank">
+  <a href="https://github.com/Singularity-MX/Bioharvest" target="_blank">
     Microalgae Culture Monitoring System
   </a>
 </b><br>
